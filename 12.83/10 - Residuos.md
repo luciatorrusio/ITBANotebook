@@ -80,6 +80,7 @@ Estos métodos se encargan de oxidar la suciedad remanente utilizando bioreactor
 - **Biológicos Anóxicos**: Se usan junto a otros procesos para remover el nitrógeno y fósforo  mientras mantiene la biomasa en condiciones.
 - **Biológicos Anaeróbicos**: Sirven para afluentes biodegradables muy sucios pero no lo dejan en condiciones de vuelco, luego tienen que pasar por un proceso aeróbico. De este paso se puede obtener biogas.
 - **Químicos**: Se utilizan cuando el efluente no es biodegradable.
+- **Barros activados**: sirven para biodegradables, comen materia organica y la descmoponen en cosas mas simples.
 
 Las sustancias biológicas que se utilizan pueden ser:
 
